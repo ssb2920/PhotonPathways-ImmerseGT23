@@ -1,3 +1,4 @@
 # Photon Pathways
 
-## Team no. 2
+## Devpost link:
+https://devpost.com/software/photon-pathways
